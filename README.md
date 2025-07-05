@@ -53,7 +53,7 @@ This project showcases my expertise in front-end development, utilizing:
 
 ## 🌍 Omnifood Website
 
-🔗 **Live Demo**: [Omnifood Website](https://your-live-demo-url.com)  
+🔗 **Live Demo**: [Omnifood Website](https://omnifood-landing-page-bazaib.netlify.app/)
 
 ---
 

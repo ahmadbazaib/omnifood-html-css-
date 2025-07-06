@@ -1,59 +1,60 @@
-# Omnifood
+# 🍽️ Omnifood Landing Page
 
-## 🚀 About Omnifood
+A modern, responsive **landing page** for a fictional AI-powered food delivery service called **Omnifood**. Built with **semantic HTML**, **modern CSS (Flexbox & Grid)**, and a touch of **JavaScript for interactivity**, this project demonstrates front-end best practices for building beautiful and user-friendly websites.
 
-Omnifood is a smart food subscription service designed to make healthy eating effortless. Using an AI-driven approach, it generates personalized meal plans based on user preferences and delivers fresh, chef-prepared meals daily. The goal is to eliminate the hassle of meal planning and cooking while ensuring a balanced diet.
+---
 
-## 🌟 Features
+## 🚀 Live Demo
 
-- 🍽 **AI-Powered Meal Plans** – Personalized meal recommendations based on user preferences and dietary needs.
-- 🥗 **Local & Organic Ingredients** – Meals are prepared with fresh, locally sourced, and organic ingredients.
-- 🌍 **Eco-Friendly Packaging** – Meals are delivered in reusable, sustainable containers.
-- ⏸ **Pause Anytime** – Easily pause or cancel your subscription whenever needed.
-- 📱 **Responsive & Modern UI** – Fully responsive design optimized for all screen sizes.
+🔗 [Visit Omnifood Website](https://omnifood-landing-page-bazaib.netlify.app/)
 
-## 🛠 Technologies Used
+---
 
-This project showcases my expertise in front-end development, utilizing:
+## 📸 Overview
 
-- **HTML5** – Semantic and well-structured markup.
-- **CSS3** – Modern styling techniques with:
-  - **Flexbox** – For efficient layout design.
-  - **CSS Grid** – For advanced, responsive layouts.
-  - **Media Queries** – Ensuring a fully responsive design across all devices.
+Omnifood is presented as a smart food subscription service, offering healthy meals through AI-generated plans. While fictional, this marketing site simulates a real startup product page, featuring:
 
-## 📲 How It Works
+- Eye-catching **hero section**
+- **Features section** explaining benefits
+- **Testimonials** to build trust
+- **Pricing plans** comparison table
+- **Responsive call-to-action** to convert users
 
-1️⃣ **Personalized Meal Plans** – AI generates weekly meal plans tailored to user preferences.  
-2️⃣ **Approve & Customize** – Modify meal plans by swapping ingredients or adding personal recipes.  
-3️⃣ **Daily Fresh Delivery** – Meals are prepared by top chefs and delivered to the user’s doorstep.  
+---
 
-## 🥦 Works with Any Diet
+## 🧩 Features
 
-✅ Vegetarian  
-✅ Vegan  
-✅ Keto  
-✅ Paleo  
-✅ Gluten-free  
-✅ Lactose-free  
-✅ Low FODMAP  
-✅ Kid-friendly  
+- ✅ **Responsive Design** – Looks great on mobile, tablet, and desktop  
+- 🎯 **Sticky Navigation** – Navigation bar remains fixed while scrolling  
+- 📜 **Smooth Scrolling** – Seamless navigation between sections  
+- 🔍 **Semantic HTML** – Clean, accessible, and SEO-friendly markup  
+- 💅 **Modern CSS Layouts** – Built with **Flexbox** and **CSS Grid**  
+- 📸 **Hero Image** & **Gallery** – Engaging visuals and brand consistency  
+- ✨ **Button Hover Effects** – Smooth CSS transitions and animations  
+- 🌍 **Cross-Browser Compatibility**
 
-## 📸 Gallery & Testimonials
+---
 
-> "Omnifood is a game-changer! The AI picks the perfect meals, and I never have to worry about cooking!" – **Ben Hadley**  
-> "Healthy, delicious, and zero effort. It’s the best decision I’ve made for my diet." – **Steve Miller**  
+## 🛠️ Technologies Used
 
-## 💰 Pricing Plans
+- **HTML5** – Semantic structure and SEO-friendly tags  
+- **CSS3** – Styling using:
+  - **Flexbox**  
+  - **CSS Grid**  
+  - **Media Queries** for responsive layout  
+- **JavaScript** – For sticky navigation and smooth scrolling  
+- **Google Fonts** – Custom typography  
+- **Font Awesome / Icon Fonts** – For icons (optional if used)
 
-| Plan      | Price  | Meals Per Day | Order Time  | Delivery |
-|-----------|--------|--------------|-------------|-----------|
-| Starter   | $399/mo | 1 Meal       | 11 AM - 9 PM | Free |
-| Complete  | $649/mo | 2 Meals      | 24/7        | Free + New Recipes |
+---
 
-## 🌍 Omnifood Website
+## 📚 What I Learned
 
-🔗 **Live Demo**: [Omnifood Website](https://omnifood-landing-page-bazaib.netlify.app/)
+- Building fully responsive layouts using Flexbox and Grid  
+- Creating modular, clean, and reusable CSS  
+- Implementing smooth scroll navigation with JavaScript  
+- Working with design tools and converting mockups into code  
+- Writing clean, accessible, and semantic HTML
 
 ---
 

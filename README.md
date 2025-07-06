@@ -44,7 +44,7 @@ Omnifood is presented as a smart food subscription service, offering healthy mea
   - **Media Queries** for responsive layout  
 - **JavaScript** – For sticky navigation and smooth scrolling  
 - **Google Fonts** – Custom typography  
-- **Font Awesome / Icon Fonts** – For icons (optional if used)
+- **Font Awesome / Icon Fonts** – For icons
 
 ---
 

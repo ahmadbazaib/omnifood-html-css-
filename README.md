@@ -6,7 +6,7 @@ A modern, responsive **landing page** for a fictional AI-powered food delivery s
 
 ## 🚀 Live Demo
 
-🔗 [Visit Omnifood Website](https://bankist-website-bazaib.netlify.app/)
+🔗 [Visit Omnifood Website](https://omnifood-landing-page-jinwoo.netlify.app/)
 
 ---
 
